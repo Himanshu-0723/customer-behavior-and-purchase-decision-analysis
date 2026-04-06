@@ -7,7 +7,7 @@ This project analyzes customer behavior, purchasing patterns, and revenue driver
 ---
 
 ## 🎯 Business Objective
-
+q
 To identify:
 - What drives customer purchases
 - Who the most valuable customers are
@@ -123,5 +123,5 @@ To identify:
 # 👤 Author
 
 **Himanshu Gupta**  
-
+Data Analyst
 
