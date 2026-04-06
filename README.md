@@ -47,7 +47,7 @@ To identify:
 
 ## 📌 1. Revenue Drivers
 
-![Revenue Drivers](./Screenshots/Page 1- Revenue_Drivers.png)
+![Revenue Drivers](./Screenshots/page1.png)
 
 💡 **Insight:** Revenue is primarily driven by high-income customers, with stable average purchase value across time.
 
@@ -55,7 +55,7 @@ To identify:
 
 ## 📌 2. Customer Behavior
 
-![Customer Behavior](./Screenshots/Page 2 -Customer Behaviour.png)
+![Customer Behavior](./Screenshots/page2.png)
 
 💡 **Insight:** Slow decision-makers and planned buyers contribute the highest revenue and purchase value.
 
@@ -63,7 +63,7 @@ To identify:
 
 ## 📌 3. Customer Segmentation
 
-![Customer Segmentation](./assets/page3.png)
+![Customer Segmentation](./Screenshots/page3.png)
 
 💡 **Insight:** High-income adult customers are the most valuable segment, while non-loyal customers spend more per purchase.
 
@@ -71,7 +71,7 @@ To identify:
 
 ## 📌 4. Marketing & Influence
 
-![Marketing Influence](./assets/page4.png)
+![Marketing Influence](./Screenshots/page4.png)
 
 💡 **Insight:** Advertising significantly impacts revenue, while discounts have minimal effect on spending behavior.
 
@@ -79,7 +79,7 @@ To identify:
 
 ## 📌 5. Customer Experience
 
-![Customer Experience](./assets/page5.png)
+![Customer Experience](./Screenshots/page5.png)
 
 💡 **Insight:** Return behavior is not strongly driven by satisfaction, indicating product-level or operational issues.
 
@@ -87,7 +87,7 @@ To identify:
 
 ## 📌 6. Business Recommendations
 
-![Business Strategy](./assets/page6.png)
+![Business Strategy](./Screenshots/page6.png)
 
 💡 **Insight:** Revenue growth can be achieved by targeting high-value segments, optimizing marketing spend, and reducing return rates.
 
@@ -125,8 +125,3 @@ To identify:
 **Himanshu Gupta**  
 Aspiring Data Analyst  
 
----
-
-# ⭐ If you found this useful
-
-Give it a ⭐ on GitHub!
